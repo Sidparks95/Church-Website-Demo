@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOD IS W.O.R.D. #2</title>
+  <link rel="stylesheet" href="/Css/styles.css">
+  <script src="script.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="/Index.html">Home</a></li>
+      <li><a href="/Index.html/about.html">About</a></li>
+      <li><a href="/Index.html/contact.html">Contact</a></li>
+      <li><a href="/Index.html/announcements.html">Announcements</a></li>
+      <li><a href="/Index.html/prayer.html">Prayer Request</a></li>
+      <li><a href="/Index.html/donations.html">Donations</a></li>
+    </ul>
+  </nav>
+
+  <main>
+  <section id="donations">
+    <h2>Support the Ministry</h2>
+    <p>Thank you for considering a gift to God Is W.O.R.D. #2. Your generosity helps us spread the truth of God's Word, reach out to our community, and walk together in obedience and love.</p>
+
+    <p>We are currently accepting donations in person and via mail. Online giving options will be coming soon!</p>
+
+    <ul>
+      <li><strong>Mailing Address:</strong> 123 Faith Lane, Houston, TX 77001</li>
+      <li><strong>In-Person:</strong> Donations may be placed in designated offering boxes during services</li>
+      <li><strong>Online Giving:</strong> Coming soon to this page!</li>
+    </ul>
+
+    <blockquote>
+      <em>“Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion...” – 2 Corinthians 9:7</em>
+    </blockquote>
+
+    <p>If you have questions or would like to partner with us in other ways, please reach out via our <a href="contact.html">Contact Page</a>.</p>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 God Is W.O.R.D. #2 • Luke 6:38</p>
+</footer>
+</body>
+</html>
