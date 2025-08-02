@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOD IS W.O.R.D. #2</title>
+  <link rel="stylesheet" href="/Css/styles.css">
+  <script src="script.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="announcements.html">Announcements</a></li>
+      <li><a href="prayer.html">Prayer Request</a></li>
+      <li><a href="donations.html">Donations</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1>Church Announcements</h1>
+    <p>Stay up to date with what's happening at God Is W.O.R.D. #2</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Upcoming Events</h2>
+      <ul>
+        <li>
+          <strong>Praise in the Park:</strong> Aug 9, 2025 at 5:00 PM — Join us for music, testimony, and free BBQ at Grace Hill Park!
+        </li>
+        <li>
+          <strong>Men of Valor Breakfast:</strong> Aug 11, 2025 at 8:00 AM — Fellowship and leadership workshop in the Fellowship Hall.
+        </li>
+        <li>
+          <strong>Youth Movie Night:</strong> Aug 15, 2025 at 7:30 PM — Snacks and Scripture-themed cinema in the Sanctuary.
+        </li>
+        <li>
+          <strong>Women's Night of Worship:</strong> Aug 21, 2025 at 6:00 PM — Spirit-led evening of praise and powerful testimonies.
+        </li>
+        <li>
+          <strong>Annual Outreach Weekend:</strong> Aug 23–24, 2025 — Service projects throughout Houston. Signup opens next Sunday!
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Ongoing Ministry</h2>
+      <ul>
+        <li>📖 Bible Study every Wednesday at 7 PM — now diving into Romans!</li>
+        <li>🎤 Choir rehearsal every Friday at 6:30 PM in the Music Room</li>
+        <li>🛍️ Food Pantry open Saturdays 10 AM–12 PM — donations welcome!</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Special Notes</h2>
+      <ul>
+        <li>Children's Church resumes September 1 — volunteer training starts August 18</li>
+        <li>Online sermons are now available through our media ministry hub</li>
+        <li>Baptism Sunday is coming up — sign up in the lobby or online!</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 God Is W.O.R.D. #2 • Jeremiah 29:11</p>
+  </footer>
+</body>
+</html>
