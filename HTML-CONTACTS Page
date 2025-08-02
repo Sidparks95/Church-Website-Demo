@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOD IS W.O.R.D. #2</title>
+  <link rel="stylesheet" href="/Css/styles.css">
+  <script src="script.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="/Index.html">Home</a></li>
+      <li><a href="/Index.html/about.html">About</a></li>
+      <li><a href="/Index.html/contact.html">Contact</a></li>
+      <li><a href="/Index.html/announcements.html">Announcements</a></li>
+      <li><a href="/Index.html/prayer.html">Prayer Request</a></li>
+      <li><a href="/Index.html/donations.html">Donations</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h2>Contact Us</h2>
+    <p>If you have any questions or would like to get involved, please reach out to us at:</p>
+    <ul>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+      <li>123-456-7890</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 God Is W.O.R.D. #2 • 1 Thessalonians 5:17</p>
+  </footer>
+</body>
