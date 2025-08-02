@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOD IS W.O.R.D. #2</title>
+  <link rel="stylesheet" href="/Css/styles.css">
+  <script src="script.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="/Index.html/about.html">About</a></li>
+      <li><a href="/Index.html/contact.html">Contact</a></li>
+      <li><a href="/Index.html/announcements.html">Announcements</a></li>
+      <li><a href="/Index.html/prayer.html">Prayer Request</a></li>
+      <li><a href="/Index.html/donations.html">Donations</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>GOD IS W.O.R.D. #2</h1>
+    <h2>Welcome, come one and come all!</h2>
+    <p>
+      Greetings the in the name of the Lord Jesus Christ, the Son of the Living God.
+      We want to welcome you to our second edition of "GOD IS W.O.R.D." where we explore the Word of God not just as a book, but as the living and active presence of God in our lives.
+    Join us as we delve deeper into the Scriptures and discover the transformative power of God's Word. 
+  </p>
+  <br>
+  <h2>What is W.O.R.D.?</h2>
+  <p>W.O.R.D. stands for "Word OutReach Deliverance." It signifies our commitment to understanding the Scriptures as a source of divine revelation and guidance in our lives.
+    Through living it in our daily lives, we aim to embody the teachings of the Bible and share its message with others.
+  </p>
+  <br>
+  <h2>Join Us</h2>
+  <p>We invite you to join us for this transformative journey as we seek to grow in our understanding of God's Word and its application in our lives.
+    Together, let us explore the depths of Scripture and experience the life-changing power of God's truth.
+  Stay tuned for more updates and resources as we continue this journey together.
+  </p>
+  <br>
+  <h2>Services and Hours</h2>
+  <p>Join us for our weekly services:</p>
+  <ul>
+    <li>Sundays at 12 PM - Worship Service</li>
+    <li>Mondays at 7:00 PM - Prayer Meeting</li>
+    <li>Wednesdays at 7:00 PM - Bible Study</li>
+  </ul>
+  <p>We look forward to seeing you there!</p>
+  <br>    
+  <h2>Contact Us</h2>
+  <p>If you have any questions or would like to get involved, please reach out to us at:
+    <br>
+    <strong>Email:</strong> GodIsWord@example.com
+    <br>
+  </main>
+  
+<footer>
+  <p>&copy; 2023 GOD IS W.O.R.D. All rights reserved.</p>
+</footer>
+</body>
+</html>
