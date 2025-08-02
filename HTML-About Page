@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GOD IS W.O.R.D. #2</title>
+    <link rel="stylesheet" href="/Css/styles.css" />
+    <script src="script.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/Index.html">Home</a></li>
+        <li><a href="/Index.html/about.html">About</a></li>
+        <li><a href="/Index.html/contact.html">Contact</a></li>
+        <li><a href="/Index.html/announcements.html">Announcements</a></li>
+        <li><a href="/Index.html/prayer.html">Prayer Request</a></li>
+        <li><a href="/Index.html/donations.html">Donations</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>
+          Greetings in the name of the Lord Jesus Christ, the Son of the Living
+          God. Welcome to the second edition of
+          <strong>"GOD IS W.O.R.D."</strong> — where we embrace the Word of God
+          not merely as written text, but as His living, breathing presence
+          active in our everyday walk. Through community, study, and praise, we
+          seek to understand the heartbeat of heaven and respond with faith and
+          obedience.
+        </p>
+        <p>
+          Dive into the depths of Scripture with us and witness its power to
+          transform hearts, restore lives, and guide us through every season.
+          The Word is not distant — it is alive, it is near, and it is speaking.
+          <br /><em
+            >“For the word of God is alive and active...” – Hebrews 4:12</em
+          >
+        </p>
+
+        <h3>Vision</h3>
+        <p>
+          To see believers walking boldly in the truth of God's Word, radiating
+          the love of Christ, and inspiring transformation in their communities.
+          <br /><em>“Write the vision and make it plain...” – Habakkuk 2:2</em>
+        </p>
+
+        <h3>Mission</h3>
+        <p>
+          We are committed to nurturing faith through sound teaching, authentic
+          fellowship, and outreach rooted in grace. Our goal is to cultivate a
+          spiritual environment where the Word is not just heard, but lived.
+          <br /><em
+            >“Go therefore and make disciples of all nations...” – Matthew
+            28:19</em
+          >
+        </p>
+
+        <h3>Core Values</h3>
+        <ul>
+          <li>
+            <strong>Obedience:</strong> Living a life surrendered to God's will
+          </li>
+          <li>
+            <strong>Righteousness:</strong> Pursuing holiness and integrity
+          </li>
+          <li>
+            <strong>Devotion:</strong> Seeking God's heart through prayer and
+            worship
+          </li>
+          <li>
+            <strong>Community:</strong> Building strong, faith-filled
+            relationships
+          </li>
+          <li>
+            <strong>Compassion:</strong> Reflecting Christ’s love to those in
+            need
+          </li>
+        </ul>
+        <p>
+          <em
+            >“But the fruit of the Spirit is love, joy, peace...” – Galatians
+            5:22–23</em
+          >
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 GOD IS W.O.R.D. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
