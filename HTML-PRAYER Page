@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOD IS W.O.R.D. #2</title>
+  <link rel="stylesheet" href="/Css/styles.css">
+  <script src="script.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="/Index.html">Home</a></li>
+      <li><a href="/Index.html/about.html">About</a></li>
+      <li><a href="/Index.html/contact.html">Contact</a></li>
+      <li><a href="/Index.html/announcements.html">Announcements</a></li>
+      <li><a href="/Index.html/prayer.html">Prayer Request</a></li>
+      <li><a href="/Index.html/donations.html">Donations</a></li>
+    </ul>
+  </nav>
+
+  <main>
+  <section id="prayer">
+    <h2>Submit a Prayer Request</h2>
+    <p>We believe in the power of prayer and the presence of God in every situation. Share your need, your hope, or your praise — we will stand with you.</p>
+
+    <form>
+      <label for="name">Name (optional):</label><br />
+      <input type="text" id="name" name="name" /><br />
+
+      <label for="email">Email (optional):</label><br />
+      <input type="email" id="email" name="email" /><br />
+
+      <label for="request">Your Prayer Request:</label><br />
+      <textarea id="request" name="request" rows="5" cols="50"></textarea><br />
+
+      <button type="submit">Send Prayer</button>
+    </form>
+
+    <p><em>“Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.” – Philippians 4:6</em></p>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 God Is W.O.R.D. #2 • 1 Thessalonians 5:17</p>
+</footer>
+</body>
+</html>
